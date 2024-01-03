@@ -1,4 +1,4 @@
-# ***Crime Classification***
+# Crime Classification
 
 This repository contains a Jupyter notebook titled "Crime classification task.ipynb," which focuses on analyzing and visualizing crime data. The aim is to classiffy crime using machine lerning techniques. The classification of the crime into violent and property based on the UCR document obtained from [Data Lacity](https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8/about_data). 
 
