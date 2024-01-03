@@ -17,11 +17,11 @@ Once you have opened the notebook, you can run each cell to see the analysis ste
 ###  Contributing
 Contributions to this project are welcome. Please follow these steps to contribute:
 
-Fork the repository.
-Create a new branch.
-Commit your changes.
-Push to the branch.
-Create a new Pull Request.
+-  Fork the repository.
+-  Create a new branch.
+-  Commit your changes.
+-  Push to the branch.
+-  Create a new Pull Request.
 
 
 Contact
